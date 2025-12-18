@@ -1,0 +1,30 @@
+{
+  "D:\\testfoder\\da.txt": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "size": 0,
+    "modified": 1766065996.7021368,
+    "path": "D:\\testfoder\\da.txt",
+    "name": "da.txt"
+  },
+  "D:\\testfoder\\tes2.txt": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "size": 0,
+    "modified": 1766065976.7201436,
+    "path": "D:\\testfoder\\tes2.txt",
+    "name": "tes2.txt"
+  },
+  "D:\\testfoder\\test1.txt": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "size": 0,
+    "modified": 1766065972.4049077,
+    "path": "D:\\testfoder\\test1.txt",
+    "name": "test1.txt"
+  },
+  "D:\\testfoder\\test3.txt": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "size": 0,
+    "modified": 1766065981.4920719,
+    "path": "D:\\testfoder\\test3.txt",
+    "name": "test3.txt"
+  }
+}
